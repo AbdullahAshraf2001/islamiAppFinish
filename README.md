@@ -20,22 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 <h3>🏠 Splash Screen</h3>
 <img src="appImages/1.jpg" width="300"/>
 
-<p float="left">
-  <img src="appImages/1.jpg" width="45%" />
-  <img src="appImages/2.jpg" width="45%" />
-</p>
-
-<p float="left">
-  <img src="appImages/3.jpg" width="45%" />
-  <img src="appImages/4.jpg" width="45%" />
-</p>
-
-<h4>📖 Quran Screen</h4>
-<img src="appImages/3.jpg" width="300"/>
-<p>دي الشاشة اللي بيظهر فيها محتوى سور القرآن الكريم مع التنسيق</p>
-
-
-
 ### First Image
 [Splash Screen](appImages/1.jpg)
 
