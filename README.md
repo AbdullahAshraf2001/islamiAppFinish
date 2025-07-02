@@ -17,25 +17,25 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots from the application
 ### First Image
-![Splash Screen] (appImages/1.jpg)
+![Splash Screen](appImages/1.jpg)
 
 ### Second Image
-![Sura's Name] (appImages/2.jpg)
+![Sura's Name](appImages/2.jpg)
 
 ### Third Image
-![Quran Screen] (appImages/3.jpg)
+![Quran Screen](appImages/3.jpg)
 
 ### Fourth Image
-![Ahadeth's Name] (appImages/4.jpg)
+![Ahadeth's Name](appImages/4.jpg)
 
 ### Fifth Image
-![Sebha] (appImages/5.jpg)
+![Sebha](appImages/5.jpg)
 
 ### Sixth Image - It connected with API 
-![Radio] (appImages/6.jpg)
+![Radio](appImages/6.jpg)
 
 ### Seventh Image
-![Settings] (appImages/7.jpg)
+![Settings](appImages/7.jpg)
 
 ### Eighth Image
-![Settings in dark mode] (appImages/8.jpg)
+![Settings in dark mode](appImages/8.jpg)
