@@ -1,8 +1,8 @@
 # islami
 
 - **Quran Reader** and **Hadith Collection** using `.txt` files for offline access.
-- **Digital Sebha** that automatically cycles through "Subhan Allah", "Alhamdulillah", and "Allahu Akbar" every 33 counts.
-- **Live Islamic Radio** integrated via an external API.
+- **Sebha** that automatically cycles through "Subhan Allah", "Alhamdulillah", and "Allahu Akbar" every 33 counts.
+- **Live Radio** integrated via an external API.
 - **Multi-language support** (Arabic and English) using Flutter localization.
 - **Dark Mode and Light Mode** for a better user experience.
 
