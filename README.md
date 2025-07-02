@@ -17,11 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots from the application
 
-<p float="left">
-  <img src="appImages/1.jpg" width="45%" />
-  <img src="appImages/2.jpg" width="45%" />
-</p>
-
 ### First Image
 [![Splash Screen](appImages/1.jpg)](appImages/1.jpg)
 
