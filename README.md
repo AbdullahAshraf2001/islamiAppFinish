@@ -17,29 +17,26 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots from the application
 
-<h3>🏠 Splash Screen</h3>
+<h3>Splash Screen</h3>
 <img src="appImages/1.jpg" width="300"/>
 
-### Splash Screen
-[Splash Screen](appImages/1.jpg)
+<h3>Sura's Name</h3>
+<img src="appImages/2.jpg" width="300"/>
 
-### Second Image
-![Sura's Name](appImages/2.jpg)
+<h3>Quran Screen</h3>
+<img src="appImages/3.jpg" width="300"/>
 
-### Third Image
-![Quran Screen](appImages/3.jpg)
+<h3>Ahadeth's Name</h3>
+<img src="appImages/4.jpg" width="300"/>
 
-### Fourth Image
-![Ahadeth's Name](appImages/4.jpg)
+<h3>Sebha</h3>
+<img src="appImages/5.jpg" width="300"/>
 
-### Fifth Image
-![Sebha](appImages/5.jpg)
+<h3>Radio</h3>
+<img src="appImages/6.jpg" width="300"/>
 
-### Sixth Image - It connected with API 
-![Radio](appImages/6.jpg)
+<h3>Settings</h3>
+<img src="appImages/7.jpg" width="300"/>
 
-### Seventh Image
-![Settings](appImages/7.jpg)
-
-### Eighth Image
-![Settings in dark mode](appImages/8.jpg)
+<h3>Settings in dark mode</h3>
+<img src="appImages/8.jpg" width="300"/>
