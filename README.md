@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots from the application
 ### First Image
-![Splash Screen](appImages/1.jpg)
+[![Splash Screen](appImages/1.jpg)](appImages/1.jpg)
+
 
 ### Second Image
 ![Sura's Name](appImages/2.jpg)
